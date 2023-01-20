@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tian
-- 🌱 I’m currently learning Computational Statistics and Data Analysis
+- 🌱 I’m currently learning Statistics and Data Analysis
 - 💞️ I’m looking for a coop job next spring.
 - 📫 Reach me on tian1lele1@gmail.com
 
